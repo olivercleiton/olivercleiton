@@ -30,8 +30,8 @@
 
 ## 📌 Projetos em Destaque
 
-### 🔹 Sistema para Oficina Automotiva
-Sistema web para gerenciamento de oficina automotiva com controle de clientes, ordens de serviço e histórico de manutenção.
+### 🔹 Sistema para Gerenciamento e Controle de Custos de Manutenção em Motos
+Sistema web para gerenciamento de manutenção personalidado com controle de custos, ordens de serviço e histórico de manutenção.
 
 **Tecnologias:** Python, Flask, MySQL
 
