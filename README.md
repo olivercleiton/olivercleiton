@@ -61,5 +61,4 @@ Projetos focados em criação de APIs REST, autenticação e integração entre 
 
 ## 📫 Contato
 
-- LinkedIn: SEU LINK
 - Email: olivercleiton@gmail.com
